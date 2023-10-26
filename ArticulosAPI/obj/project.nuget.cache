@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D6NPx5Nh5tjRiL2bfwb41h4+2APNLpO5HrwwmEfdegl9ZsirtxH1iLnnu+NRQTdCFgB8GtiIWfKWuLSCqEma+w==",
+  "dgSpecHash": "dDFXwMXI3cbpBvsArJrSKBuD5P3F+cjJCuux/UE6wWQFxnrY5ms8FgZIa61ViQELrDJjXPAt0kWdclGob4pLeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pcain\\source\\repos\\Articulos-API2.1\\ArticulosAPI\\ArticulosAPI.csproj",
+  "projectFilePath": "C:\\Users\\pcain\\Source\\Repos\\Patricio-Cainzo\\ArticuloAPI\\ArticulosAPI\\ArticulosAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pcain\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\pcain\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

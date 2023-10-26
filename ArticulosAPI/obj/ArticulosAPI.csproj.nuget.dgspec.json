@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pcain\\source\\repos\\Articulos-API2.1\\ArticulosAPI\\ArticulosAPI.csproj": {}
+    "C:\\Users\\pcain\\Source\\Repos\\Patricio-Cainzo\\ArticuloAPI\\ArticulosAPI\\ArticulosAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pcain\\source\\repos\\Articulos-API2.1\\ArticulosAPI\\ArticulosAPI.csproj": {
+    "C:\\Users\\pcain\\Source\\Repos\\Patricio-Cainzo\\ArticuloAPI\\ArticulosAPI\\ArticulosAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pcain\\source\\repos\\Articulos-API2.1\\ArticulosAPI\\ArticulosAPI.csproj",
+        "projectUniqueName": "C:\\Users\\pcain\\Source\\Repos\\Patricio-Cainzo\\ArticuloAPI\\ArticulosAPI\\ArticulosAPI.csproj",
         "projectName": "ArticulosAPI",
-        "projectPath": "C:\\Users\\pcain\\source\\repos\\Articulos-API2.1\\ArticulosAPI\\ArticulosAPI.csproj",
+        "projectPath": "C:\\Users\\pcain\\Source\\Repos\\Patricio-Cainzo\\ArticuloAPI\\ArticulosAPI\\ArticulosAPI.csproj",
         "packagesPath": "C:\\Users\\pcain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pcain\\source\\repos\\Articulos-API2.1\\ArticulosAPI\\obj\\",
+        "outputPath": "C:\\Users\\pcain\\Source\\Repos\\Patricio-Cainzo\\ArticuloAPI\\ArticulosAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
